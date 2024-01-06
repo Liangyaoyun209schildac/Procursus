@@ -1,4 +1,4 @@
-Package: clang-format-14
+Package: clang-format-16
 Version: @DEB_LLVM_V@
 Architecture: @DEB_ARCH@
 Maintainer: @DEB_MAINTAINER@

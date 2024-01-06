@@ -1,4 +1,4 @@
-Package: libllvm14
+Package: libllvm16
 Version: @DEB_LLVM_V@
 Architecture: @DEB_ARCH@
 Maintainer: @DEB_MAINTAINER@

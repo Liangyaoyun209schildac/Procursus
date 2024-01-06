@@ -1,4 +1,4 @@
-Package: llvm-14-linker-tools
+Package: llvm-16-linker-tools
 Version: @DEB_LLVM_V@
 Architecture: @DEB_ARCH@
 Maintainer: @DEB_MAINTAINER@

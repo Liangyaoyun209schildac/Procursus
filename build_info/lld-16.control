@@ -1,4 +1,4 @@
-Package: lld-14
+Package: lld-16
 Version: @DEB_LLVM_V@
 Architecture: @DEB_ARCH@
 Maintainer: @DEB_MAINTAINER@

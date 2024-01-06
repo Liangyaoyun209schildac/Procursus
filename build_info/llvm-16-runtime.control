@@ -1,4 +1,4 @@
-Package: llvm-14-runtime
+Package: llvm-16-runtime
 Version: @DEB_LLVM_V@
 Architecture: @DEB_ARCH@
 Maintainer: @DEB_MAINTAINER@

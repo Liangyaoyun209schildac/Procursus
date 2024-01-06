@@ -1,4 +1,4 @@
-Package: libclang1-14
+Package: libclang1-16
 Version: @DEB_LLVM_V@
 Architecture: @DEB_ARCH@
 Maintainer: @DEB_MAINTAINER@

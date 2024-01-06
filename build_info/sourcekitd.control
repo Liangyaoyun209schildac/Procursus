@@ -1,0 +1,14 @@
+Package: sourcekitd
+Version: @DEB_LLVM_V@
+Architecture: @DEB_ARCH@
+Maintainer: @DEB_MAINTAINER@
+Depends: sourcekitd-16 (= @DEB_LLVM_V@)
+Section: Development
+Priority: optional
+Homepage: https://swift.org/
+Description: Language server daemon
+ Sourcekitd is a daemon that provides advanced features like code 
+ completion to editors.
+ .
+ This is a dependency package that depends on 
+ Procursus' default sourcekitd version.
